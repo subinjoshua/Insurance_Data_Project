@@ -1,6 +1,6 @@
 # Insurance
 
-The primary goal of this project was to utilise machine learning methods including regression and regularisation to find the best predictive model to understand the mulitvariate predictors of premature death rate, our proxy for life insurance premiums.
+The primary goal of this project was to utilize machine learning methods including regression and regularisation to find the best predictive model to understand the mulitvariate predictors of premature death rate, our proxy for life insurance premiums.
 
 ## Table of Contents
 
