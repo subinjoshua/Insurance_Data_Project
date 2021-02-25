@@ -1,4 +1,4 @@
-# LaVie Insurance
+# Insurance
 
 The primary goal of this project was to utilise machine learning methods including regression and regularisation to find the best predictive model to understand the mulitvariate predictors of premature death rate, our proxy for life insurance premiums.
 
@@ -116,6 +116,6 @@ Finally, we ran the model on the test set and got an R^2 of 0.5626 illustrating 
 <a name="conclusion"></a>
 ### Conclusion
 
-We believe our final model provides us enough prediction accuracy to implement the life insurance premium increase. We are aiming to perform this increase as a function of YPLL predictions scaled to the population size. This model should allow us not only to increase our revenues but to shift towards a more risk-adjusted revenue approach which we can replicate in the future. 
+I believe our final model provides us enough prediction accuracy to implement the life insurance premium increase. I am aiming to perform this increase as a function of YPLL predictions scaled to the population size. This model should allow us not only to increase our revenues but to shift towards a more risk-adjusted revenue approach which we can replicate in the future. 
 
 
